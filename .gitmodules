@@ -1,0 +1,4 @@
+[submodule "git_practice"]
+	path = git_practice
+	url = https://github.com/ChenYuStart/git_practice.git
+	branch = chany_2
